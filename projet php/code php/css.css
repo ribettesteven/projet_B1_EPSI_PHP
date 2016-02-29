@@ -1,0 +1,66 @@
+header
+{
+	height:200px;
+	min-width:1280px;
+	background-color:blue;
+}
+footer 
+{
+	display:inline-block;
+	height:40px;
+	min-width:1280px;
+	background-color:blue;
+	text-align:center;
+}
+footer a
+{
+	color:yellow;
+}
+#milieu
+{
+	margin:auto;
+	min-height:700px;
+	max-width:960px;
+	background-color:black;
+	border:3px yellow solid;
+}
+#tableau 
+{
+	margin: 0 auto;
+	text-align: center;
+	height:30px;
+	max-width:960px;
+	border:3px black solid;
+	background-color:yellow;
+}
+#tableau ul
+{
+	margin:0;
+}
+#tableau li 
+{
+	display: inline-block;
+	list-style: none;
+	line-height:30px;
+}
+#tableau a 
+{
+	display:inline-block;
+	margin: 0 75px;
+	color:black;
+}
+#connection
+{
+	display:inline-block;
+	float:right;
+}
+form{
+	margin:auto;
+	margin-top:50px;
+	text-align:left;
+	width:400px;
+	color:white;
+}
+form  p input, form input{
+	float:right;
+}
